@@ -1,2 +1,3 @@
 # TradingSandbox
-Polygon trading sandbox for building tradin algos
+Polygon trading sandbox for building trading algos
+This is our playground space for now
